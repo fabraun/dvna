@@ -1,0 +1,22 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "serialNumber": "urn:uuid:e4bf2f93-46b2-4989-9ebf-55d46d6e9f59",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2023-04-17T10:07:33+02:00",
+    "tools": [
+      {
+        "vendor": "anchore",
+        "name": "syft",
+        "version": "0.77.0"
+      }
+    ],
+    "component": {
+      "bom-ref": "dab13acd388f12f",
+      "type": "file",
+      "name": "dvna/"
+    }
+  },
+  "components": []
+}
